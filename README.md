@@ -1,0 +1,1 @@
+Pharma Home Pharmacies is a mobile application whose mission is to deliver medical products to pharmacies upon their request from drug warehouses and to manage the products and their quantities within the warehouses.
