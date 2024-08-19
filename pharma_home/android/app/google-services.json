@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87031117955",
+    "project_id": "pharma-home-dafc3",
+    "storage_bucket": "pharma-home-dafc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87031117955:android:b73c8568e2e1a3d2b883b6",
+        "android_client_info": {
+          "package_name": "com.example.pharma_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_3ZSQMIoNIt-m99zXmfq5ewkc1KEq0TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
